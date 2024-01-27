@@ -41,15 +41,19 @@
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
   </a>
+  <a href="https://helm.sh/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="helm" width="40" height="40"/>
+  </a>
   <a href="https://prometheus.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/>
   </a>
   <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/>
   </a>
-  <a href="https://argoproj.github.io/argo-cd/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/argoproj/argoproj-icon.svg" alt="argocd" width="40" height="40"/>
+  <a href="https://grafana.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
   </a>
+ 
   <a href="https://www.splunk.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" alt="splunk" width="40" height="40"/>
   </a>
@@ -74,9 +78,12 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
-  <a href="https://grafana.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
-  </a>
+   <a href="https://argoproj.github.io/argo-cd/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/argoproj/argo-cd/stable/manifests/crds/argoproj.io_argocds_crd.svg" alt="ArgoCD" width="40" height="40"/>
+   </a>
+
+
+  
   <a href="https://www.django-project.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
   </a>
