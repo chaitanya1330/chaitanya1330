@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ChaitanyaChaitu</h1>
-<h3 align="center">A passionate DevOps Engineer from India</h3>
+<h3 align="center">DevOps Engineer who always wants to "think out of the box"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitanya1330&label=Profile%20views&color=0e75b6&style=flat" alt="chaitanya1330" /> </p>
 
