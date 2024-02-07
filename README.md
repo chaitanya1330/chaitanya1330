@@ -22,6 +22,7 @@
 <a href="https://twitter.com/https://twitter.com/vantakuc70242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/vantakuc70242" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/chaitanya1330/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chaitanya1330/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/chaitanya_chaitu_6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/chaitanya_chaitu_6/" height="30" width="40" /></a>
+<a href="https://medium.com/https://medium.com/@chaitanyachaitu1330" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@chaitanyachaitu1330" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
