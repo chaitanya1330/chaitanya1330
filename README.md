@@ -11,8 +11,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/chaitanya1330](https://github.com/chaitanya1330)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1eXEZQhrRiv9CHzh3fn9hbzIYHATgrAZu/view?usp=sharing](https://drive.google.com/file/d/1eXEZQhrRiv9CHzh3fn9hbzIYHATgrAZu/view?usp=sharing)
-
+- 📄 Know about my experiences [https://drive.google.com/file/d/1I8kEhWo-xLqjAJr0pvSMk4zov5ogDsnF/view?usp=sharing](https://drive.google.com/file/d/1I8kEhWo-xLqjAJr0pvSMk4zov5ogDsnF/view?usp=sharing)
+  
 - 💬 Ask me about **day to day life**
 
 - 📫 How to reach me **chaitanyavantaku@gmail.com**
