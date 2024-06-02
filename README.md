@@ -19,7 +19,9 @@
 
 - ⚡ Fun fact **One Girl Guy**
 
-<h3 align="left">Connect with me:</h3>
+
+
+<h3 align="left">🌐 Socials :</h3>
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/vantakuc70242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/vantakuc70242" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/chaitanya1330/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chaitanya1330/" height="30" width="40" /></a>
@@ -108,3 +110,11 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanya1330&" alt="chaitanya1330" /></p>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=chaitanya1330&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+
+---
