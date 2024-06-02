@@ -3,23 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitanya1330&label=Profile%20views&color=0e75b6&style=flat" alt="chaitanya1330" /> </p>
 
-- 🔭 I’m currently working on **DevOps and Troubleshooting things**
-
-- 🌱 I’m currently learning **AWS , Azure**
-
-- 👯 I’m looking to collaborate on **Open Source**
-
-- 👨‍💻 All of my projects are available at [https://github.com/chaitanya1330](https://github.com/chaitanya1330)
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1I8kEhWo-xLqjAJr0pvSMk4zov5ogDsnF/view?usp=sharing](https://drive.google.com/file/d/1I8kEhWo-xLqjAJr0pvSMk4zov5ogDsnF/view?usp=sharing)
-  
-- 💬 Ask me about **day to day life**
-
-- 📫 How to reach me **chaitanyavantaku@gmail.com**
-
-- ⚡ Fun fact **One Girl Guy**
-
-
+- # 💫 About Me:
+🔭 I’m currently working as a DevOps Engineer<br>👯 I’m looking to collaborate on open source projects !!<br>💬 If you have a moment, Lets discuss about cloud computing <br>📄 Know about my experiences [https://drive.google.com/file/d/1I8kEhWo-xLqjAJr0pvSMk4zov5ogDsnF/view?usp=sharing](https://drive.google.com/file/d/1I8kEhWo-xLqjAJr0pvSMk4zov5ogDsnF/view?usp=sharing)<br>⚡ Fun fact - One Girl Guy
 
 <h3 align="left">🌐 Socials :</h3>
 <p align="left">
