@@ -1,10 +1,16 @@
-<h1 align="center">Hi 👋, I'm ChaitanyaChaitu</h1>
-<h3 align="center">DevOps Engineer who always wants to "think out of the box"</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitanya1330&label=Profile%20views&color=0e75b6&style=flat" alt="chaitanya1330" /> </p>
+## $\textcolor{Yellow}{\Huge \textbf{👋 Hi, I'm Chaitanya Chaitu}}$
 
 - # 💫 About Me:
 🔭 I’m currently working as a DevOps Engineer<br>👯 I’m looking to collaborate on open source projects !!<br>💬 If you have a moment, Lets discuss about cloud computing <br>📄 Know about my experiences [https://drive.google.com/file/d/1I8kEhWo-xLqjAJr0pvSMk4zov5ogDsnF/view?usp=sharing](https://drive.google.com/file/d/1I8kEhWo-xLqjAJr0pvSMk4zov5ogDsnF/view?usp=sharing)<br>⚡ Fun fact - One Girl Guy
+
+<br/>
+<hr/>
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=400&color=FFBF00&center=true&vCenter=true&random=true&width=700&height=60&lines=DevOps+Engineer;Cloud+OPS+Engineer;Azile+Scrum+Env;Building+the+future+with+Automation;Scripting+with+passion)](https://git.io/typing-svg)
+<br/>
+<hr/>
+<br/>
 
 <h3 align="left">🌐 Socials :</h3>
 <p align="left">
@@ -90,16 +96,29 @@
   
 </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=chaitanya1330&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=chaitanya1330&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanya1330&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+### 👀 Views Counter:
 
+![Profile Views](https://komarev.com/ghpvc/?username=chaitanya1330&color=blue)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<p align="center">
+  <a href="https://github.com/chaitanya1330">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanya1330&theme=dark&title_color=FFBF00&area=true" alt="Chaitanya's GitHub streak"/>
+  </a>
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=chaitanya1330&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://github.com/chaitanya1330">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chaitanya1330&theme=dark&title_color=FFBF00&area=true" alt="Chaitanya's GitHub Contribution"/>
+  </a>
+</p>
 
+<a href="https://github.com/chaitanya1330">
+    <img alt="Chaitanya's GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=chaitanya1330&theme=dark&title_color=FFBF00&area=true" height="192px" width="49%"/>
+</a>
+<a href="https://github.com/chaitanya1330">
+    <img alt="Chaitanya's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=chaitanya1330&langs_count=4&theme=dark&title_color=FFBF00&area=true" height="192px" width="49%"/>
+</a>
+<br/>
+
+![Chaitanya's Graph](https://github-readme-activity-graph.vercel.app/graph?username=chaitanya1330&custom_title=chaitanya1330%27s%20GitHub%20Activity%20Graph&bg_color=000000&color=dddddd&line=dddddd&point=dddddd&area_color=FFFFFF&title_color=FFBF00&area=true)
 ---
