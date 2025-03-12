@@ -1,7 +1,7 @@
 ## $\textcolor{Yellow}{\Huge \textbf{👋 Hi, I'm Chaitanya Chaitu}}$
 
 - # 💫 About Me:
-🔭 I’m currently working as a DevOps Engineer<br>👯 I’m looking to collaborate on open source projects !!<br>💬 If you have a moment, Lets discuss about cloud computing <br>📄 Know about my experiences [https://drive.google.com/file/d/1I8kEhWo-xLqjAJr0pvSMk4zov5ogDsnF/view?usp=sharing](https://drive.google.com/file/d/1iJ8-vSg0MQVcmDGOdgGn5S4PZfljdZjI/view?usp=drivesdk)<br>⚡ Fun fact **💡 Fun Fact: I automate my coffee-making process almost as much as I automate deployments—because caffeine is the original CI/CD pipeline!**
+🔭 I’m currently working as a DevOps Engineer<br>👯 I’m looking to collaborate on open source projects !!<br>💬 If you have a moment, Lets discuss about cloud computing <br>📄 Know about my experiences [https://drive.google.com/file/d/1I8kEhWo-xLqjAJr0pvSMk4zov5ogDsnF/view?usp=sharing](https://drive.google.com/file/d/1DMwUEuKM6V1JaQNw04qITCYnHZ9gNZZO/view?usp=sharing)<br>⚡ Fun fact **💡 Fun Fact: I automate my coffee-making process almost as much as I automate deployments—because caffeine is the original CI/CD pipeline!**
 
 <br/>
 <hr/>
